@@ -12,10 +12,10 @@ variables:
   azureSubscription: '9ebc21f0-2ef1-4caf-b5f6-a91ba927dfa5'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'WhatsNextt'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'dev'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
